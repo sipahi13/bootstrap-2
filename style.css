@@ -1,0 +1,9 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+.circle-img{
+    width: 100%;
+}
